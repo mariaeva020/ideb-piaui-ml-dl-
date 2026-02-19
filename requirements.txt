@@ -1,0 +1,15 @@
+import pandas
+import numpy
+import sklearn
+import tensorflow
+import xgboost
+import shap
+import statsmodels
+
+print("pandas:", pandas.__version__)
+print("numpy:", numpy.__version__)
+print("sklearn:", sklearn.__version__)
+print("tensorflow:", tensorflow.__version__)
+print("xgboost:", xgboost.__version__)
+print("shap:", shap.__version__)
+print("statsmodels:", statsmodels.__version__)
