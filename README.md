@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 
 
-4. Execução
+## 4. Execução
 
 Clone o repositório:
 
@@ -67,11 +67,11 @@ Certifique-se de manter a estrutura de pastas para que o caminho relativo da bas
 
 caminho_arquivo = "dados/base_anos_iniciais.xlsx"
 
-5. Reprodutibilidade
+## 5. Reprodutibilidade
 
 Os experimentos foram conduzidos com divisão treino-teste (70/30) e validação cruzada k-fold (k=5). As versões das bibliotecas utilizadas estão especificadas no arquivo requirements.txt.
 
-6. Referência
+## 6. Referência
 
 Caso utilize este material, cite:
 
